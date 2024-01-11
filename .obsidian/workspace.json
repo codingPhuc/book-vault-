@@ -11,11 +11,52 @@
             "id": "82255ca3fd9819d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Books/Isreal And The Cyber Threat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c51ca15b752f8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Isreal And The Cyber Threat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09e49bea5a27f661",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Isreal And The Cyber Threat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e3283945d8ae4ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyber attack in isreal.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#russia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Books/Isreal And The Cyber Threat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Books/Isreal And The Cyber Threat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +162,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Books/Isreal And The Cyber Threat.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82255ca3fd9819d9",
-  "lastOpenFiles": []
+  "active": "981c772747a5cc1e",
+  "lastOpenFiles": [
+    "cyber attack in isreal.md",
+    "cyber crime.md",
+    "Books/Isreal And The Cyber Threat.md",
+    "How to read  a book.md",
+    "Books/Is.md"
+  ]
 }
