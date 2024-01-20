@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7b360bb5c1093645",
+        "id": "bc913a134505b509",
         "type": "tabs",
         "children": [
           {
-            "id": "82255ca3fd9819d9",
+            "id": "1fc4a6fe5672352b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cyber crime.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3faf0806eaaf45ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,43 +32,55 @@
             }
           },
           {
-            "id": "7c51ca15b752f8b1",
+            "id": "3e0c153e1ad476f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Isreal And The Cyber Threat.md",
+                "file": "cyber crime.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "09e49bea5a27f661",
+            "id": "dfd6bae3499c6043",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Isreal And The Cyber Threat.md",
+                "file": "Chapter 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4e3283945d8ae4ee",
+            "id": "0560ee6657893fbe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cyber attack in isreal.md",
+                "file": "Cyber attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4fac840e91908aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Realm.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#russia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Isreal And The Cyber Threat.md",
+                "file": "Cyber attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Isreal And The Cyber Threat.md",
+                "file": "Cyber attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,16 +186,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Isreal And The Cyber Threat.md"
+                "file": "Cyber attack.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,12 +208,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "981c772747a5cc1e",
+  "active": "0560ee6657893fbe",
   "lastOpenFiles": [
+    "Chapter 1.md",
     "cyber attack in isreal.md",
+    "Cyber attack.md",
     "cyber crime.md",
-    "Books/Isreal And The Cyber Threat.md",
+    "Cyber Realm.md",
     "How to read  a book.md",
+    "Books/Isreal And The Cyber Threat.md",
+    "PDF reader/[] Charles D. Freilich, Matthew S. Cohen, Gabi Siboni - Israel and the Cyber Threat_ How the Startup Nation Became a Global Cyber Power (2023, Oxford University Press)(Z-Lib.io).pdf",
+    "2024-01-20.md",
+    "Pasted image 20240120105256.png",
+    "Untitled.canvas",
     "Books/Is.md"
   ]
 }
