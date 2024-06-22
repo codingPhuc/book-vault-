@@ -1,0 +1,475 @@
+
+# Chart 
+
+
+
+## Pie Chart 
+### Pie chart concept  
+pie chart is a circular image divided into many part using color , each section is mark by a number as a percentage  
+this is used to compare different between subject at different time interval 
+
+
+### there are two different type of pie chart 
+![[Pasted image 20240622112211.png]] 
+Dynamic pie chart which  change over time  
+static chart which depict just one subject there is no comparison between the chart 
+
+### Overview 
+similar to other type of chart highlight two factor that seem to affect the chart the most 
+trend  : write out figure that tend to decrease or increase  
+magnitude : which section or factor in the chart take up the most space the which factor take up the lowest 
+
+Example : 
+"Overall, at the beginning of the period construction contributed the least to the economy of Turkey and agriculture was the most significant economic sector. In comparison, at the end of the period healthcare and education became the largest economic segment and the lowest contribution was made by financial, business and other services"
+here the magnitude of the overview focus on which sector is the majority , taking up the most space 
+and the trend represent how the contribution change over time 
+### body 
+
+there are two method to divide the body of a paragraph 
+first is to divide it by year 
+second is to divide it by object 
+
+if the question only give a single pie chart present the info from smallest to largest 
+if the question give more than two paragraph  , you can present the information the following way : 
+- first see the changes in the pie chart between the beginning pie chart and the end pie chart . These change can be represented by symbol like upward and downward arrow 
+- group each section in your explanation, meaning to group section in pie chart that have similar name together ,like a economy pie chart would have a service section in the beginning and end pie chart  then group the economy section in the pie chart from the beginning to end together 
+
+
+### write pie chart as static chart 
+
+#### Overview  
+in a static pie chart you will analyze the magnitude of each part in the pie chart like which part take up the largest amount etc 
+analyzing something like the lowest amount spend the largest amount ... 
+
+example :
+```
+Overally, the UAE government's maximum spending went in social security and healthcare sectors while the least amounts were spent on transport, law and order, housing and industry/agriculture and employment sectors.
+```
+here the UAE magnitude highlight the spending in social security and health care sector  , while the transport sector have the least amount etc so it just highlight what is the biggest and what is the smallest 
+
+#### body 
+you should arrange the body into different section  form the largest magnitude to the lowest magnitude .There is also a method to arrange the information into the same group 
+
+```
+According to the pie chart, the UAE administration allocated AED 100 billion in social security from their national budget of AED 315 billion. This single sector costs the UAE government almost one-third of the total budget. This year the government's expense was 53 million on health and personal social services, which was the second largest sector in terms of expenditure made by the UAE government. 38 million AED was spent on education while 23 billion both in debt and other expenditures.
+
+The government used 22 billion in the Defense sector while 15 billion of the budget was spent on housing and the environment. Next, the government spent 13 billion for the industry, employment agriculture and sectors. Finally, The lowest amount of money, only 9 billion, went to the transport sector.
+``` 
+here the writer first showcase the overall budget and the sector that spend the most money in . and trickle down from second largest to smallest sector 
+percentages to fractions that candidates can apply:
+
+
+
+|**Percentage**|**Score**|
+|---|---|
+|80%|four-fifths|
+|75%|three-quarters|
+|60%|three-fifths|
+|50%|half. half|
+|40%|two-fifths|
+|25%|a quarter|
+|20%|a fifth|
+|ten%|one in ten|
+
+In addition, candidates can use adverbs of estimation to convert percentages to fractions close to the ratios listed in the table above. For example: 
+
+|**Percentage**|**Score**|
+|---|---|
+|77%|just over three quarters<br><br>  <br>approximately three quarters|
+|52%|Approximately half|
+|49%|just under a half / nearly a half|
+|32%|almost a third|
+|19%|nearly a fifth|
+
+|**Percentage**|**amount / proportion / number**|
+|---|---|
+|75% - 85%|a very large majority|
+|65% - 75%|a significant proportion<br><br>  <br>a large proportion|
+|35%|a good proportion|
+|15% - 25%|a small number|
+|10% - 15%|a minority<br><br>  <br>a small minority|
+|5%|a very small number<br><br>  <br>a significant amount|
+
+### Vocabulary describing chart layout
+
+Some of the next important vocabulary for Pie Chart are words used to describe the polarity of the chart, refer to some of the phrases below: 
+
+|**Vocabulary to describe charts**|**Meaning**|
+|---|---|
+|Account for/ take up/ make up/ consist of /include/ include/ contribute/ constitute + number or percentage|How much % X accounts for (contributes)|
+|Account for a bigger (or smaller) share/ Make up a bigger (or smaller) proportion + than|Having more or less market share/quantity than one another.|
+|Take up the remaining X%|Contribute or account for the remaining percentage, used to describe the final data object.|
+|Continue to be the major + Noun (producer/company/country…)|Continue to lead the way.|
+|Will overtake + Noun + to become…|Surpass X to become…|
+|Responsible for the highest amount of + Noun|Responsible for the largest amount of… (often used in a negative sense such as environmental pollution)|
+
+### Structures that show comparison 
+
+|**Vocabulary to describe charts**|**For example**|
+|---|---|
+|The highest/ The smallest/ The lowest/ The largest/ The greatest percentage/ proportion/ quantity/ number of + N + to be/V|**The highest number of** animals was in Australia.|
+|N + the most/least + Adj + N|Brazil **was the least attractive country** among all nations.|
+|There + be + (a/an) + adj + noun + in + noun/ noun phrase + time phrase.|**There was a** slight increase in the proportion of animals in Brazil.|
+|As many/ Twice as many/ Three times as many/ Not as many + N + to be/ V + as|In 1990, **twice as many** red motorbikes were produced in Brazil as in the UK.|
+|More/ Far more/ Much More… + N + to be/ V + than|In 1990, **much more red motorbikes** were produced in Brazil than in the UK.|
+|In comparison to/with X, which verb, Y verb|**In comparison with** the percentage of animals in Brazil, which experienced a slight increase to 30,000 in 1997, the proportion in Korea dropped to 12,000 at this time.|
+
+See more: 
+
+- [Suggested structures to score points in IELTS Writing Task 1](https://ielts.idp.com/vietnam/prepare/article-ielts-writing-task-1-sentence-structures)
+    
+- [Summary of IELTS Writing Task 1 vocabulary](https://ielts.idp.com/vietnam/prepare/article-ielts-vocabulary-writing-task-1)
+    
+- [Types of essay & how to write IELTS Writing Task 2](https://ielts.idp.com/vietnam/prepare/article-ielts-writing-task-2)
+    
+
+## Confidently score the Pie Chart test in IELTS Writing!
+
+With the steps to solve the Mixed Charts problem in the IELTS Writing Task 1 test above, we hope you have some understanding of the test structure and scored high in your work. You can read more strategies for solving different types of problems in IDP's available IELTS resources. 
+
+Don't forget to take the time to review IDP's available IELTS resources to prepare better. Materials provided include [IELTS Event Workshops](https://ielts.idp.com/vietnam/events) , [Test Preparation Courses](https://ielts.idp.com/vietnam/lp/ielts-free-preparation-offer) and test-taking tips from international IELTS experts!
+
+And when you're ready, register [for the IELTS test with IDP today](https://ielts.idp.com/vietnam/book-my-test) !
+
+Published on September 28, 2023
+
+![One Skill Retake - IELTS Australia](https://image.ielts.idp.com/assets/img_px.gif)
+
+##### Quynh Khanh
+
+I am Quynh Khanh - Content Writer with more than 5 years of experience in the field of education
+
+#### Share this article
+
+![linkedin](https://image.ielts.idp.com/assets/img_px.gif)![twitter](https://image.ielts.idp.com/assets/img_px.gif)![Facebook](https://image.ielts.idp.com/assets/img_px.gif)
+
+In addition, candidates can use adverbs of estimation to convert percentages to fractions close to the ratios listed in the table above. For example: 
+
+|**Percentage**|**Score**|
+|---|---|
+|77%|just over three quarters<br><br>  <br>approximately three quarters|
+|52%|Approximately half|
+|49%|just under a half / nearly a half|
+|32%|almost a third|
+|19%|nearly a fifth|
+
+|**Percentage**|**amount / proportion / number**|
+|---|---|
+|75% - 85%|a very large majority|
+|65% - 75%|a significant proportion<br><br>  <br>a large proportion|
+|35%|a good proportion|
+|15% - 25%|a small number|
+|10% - 15%|a minority<br><br>  <br>a small minority|
+|5%|a very small number<br><br>  <br>a significant amount|
+## example writing 
+**Introduction:**
+
+- Giới thiệu và paraphrase đề bài: Biểu đồ đường được cung cấp minh họa những biến động về giá hàng tháng đối với đồng, niken và kẽm trong suốt năm 2014.
+
+**Overview:** 
+
+- Nêu ra những điểm nổi bật của biểu đồ: 
+
+=> Giá đồng và niken sụt giảm, trong đó niken có mức biến động cao nhất.
+
+=> Kẽm có mức tăng vừa phải, thay đổi ít quyết liệt hơn.
+
+**Details:** Mô tả các điểm chính và tìm ra điểm tương đồng hoặc khác biệt giữa các số liệu.
+
+- **Body 1:** Mô tả đặc điểm chính của 3 loại trong nửa đầu năm (tháng 1 đến tháng 6) và so sánh với nhau nếu cần thiết.
+- **Body 1:** Mô tả đặc điểm chính của 3 loại trong nửa cuối năm (tháng 7 đến tháng 12) và so sánh với nhau nếu cần thiết.
+The provided line chart illustrates the **fluctuations** in monthly prices for **copper**, **nickel**, and **zinc** throughout the year 2014.
+
+Overall, the prices of copper and nickel witnessed declines, with nickel exhibiting the highest **volatility** among them. On the other hand, zinc experienced a **moderate** increase. As the period progressed, the changes became less **drastic**, indicating a **stabilization** in the market.
+
+In January 2014, nickel exhibited a **substantial** month-to-month percentage change of 6%, **surpassing** both copper (2%) and zinc (1%) by a significant margin. However, this trend for nickel reversed in the following months, as the percentage changes dropped to 1% by March and reached a low of -3% by June. The **divergences** observed in the other metals were **comparatively** more moderate. Zinc experienced its highest change of 3% in February before entering a declining trend throughout the first half of the year. Similarly, copper prices also declined, with changes mostly ranging around 1% to -1%, slightly lower compared to the other metals.
+
+During the second half of the year, nickel production experienced a decline, with most months seeing a decrease of -1%. However, towards the end of the year, there was a notable **upturn** as nickel prices rose, resulting in 1% increases. In contrast, copper prices remained relatively **steady**, **hovering** around 1% from July onwards, with a slight upward trend observed in December. Zinc, on the other hand, saw a slight decline of 0.5% for the majority of the **latter** part of the year, but it ended on a high note with a **surge** of 2% in December. This marked the highest ending point among all metal prices. 
+
+- the writer first paraphrase the introduction to the writing problem  
+- second the writer 
+
+## word describing rose and fall 
+
+The group of words indicates an upward trend
+- upturn
+
+- Rose to/ A rise
+    
+- Increased to/ An increase
+    
+- Went up to/ Growth
+    
+- Climbed to/ An upward trend
+    
+
+The group of words indicates a downward trend
+
+- Fell to/ A decrease
+    
+- Declined to/ A decline
+    
+- Decreased to/ A fall
+    
+- Dipped to/ A drop
+    
+- Went down to/ A reduction
+    
+- Slumped to
+    
+- Reduced to
+    
+
+The word group refers to invariance
+
+- Leveled out at/ A leveling out
+    
+- Did not change/ No change
+    
+- Remained stable at
+    
+- Remained steady at
+    
+- Stayed constant at
+    
+- Maintained the same level
+    
+
+The word group refers to relativity
+
+- Just under
+    
+- Well under
+    
+- Roughly
+    
+- Approximately
+    
+
+The group of words indicates fluctuation
+
+- Fluctuated around
+    
+- Peaked at/ Reached a peak of
+    
+- Plateaued at
+    
+- Stood at 
+- volatil 
+fluctuated 
+volatile 
+stood at 
+plateaued  
+plateaued 
+
+## writing 
+
+
+# MAP 
+
+#### Introduction 
+
+**Tip 1: Using Synonyms, Antonyms, and Different Forms of Words**
+
+This approach is indeed beneficial for those with a robust vocabulary. It involves substituting words with their synonyms or antonyms without altering the original meaning. For instance:
+
+- Original: The map shows the development over the years.
+- Paraphrased: The diagram illustrates the progression through the decades.
+
+**Tip 2: Changing the Sentence Structure Without Changing the Meaning**
+
+This technique involves altering the grammatical structure of the sentence while retaining its meaning. It can include switching between active and passive voice, using introductory phrases, or reordering the components of the sentence. For example:
+
+- Original: There has been a significant increase in urban development in the city over the last decade.
+- Paraphrased: Over the past ten years, the city has experienced a marked escalation in urban growth.
+
+When you mention changing from “V+to+adj” to “adj+to+V,” it seems you’re referring to changing the order of words within the sentence. This can be part of restructuring the sentence, but it’s important to ensure that the new structure still makes sense and retains the original meaning. For example:
+
+- Original: It is essential to address the issue.
+- Paraphrased: Addressing the issue is essential.
+After practicing the above 2 tips of IDP, you can use some common opening sentence patterns such as:
+- The maps + V + how changed + Time = The maps + V + the changes of + [Place] + Time, where:
+    
+    - V: show/illustrate/demonstrate
+        
+    - Time: over a [number of years]-year period from___ to___/ between___ and___
+        
+- The given table presents/ witness/ shows 
+    
+- Use relational clauses
+    
+- Use linking words such as: Even though, In spite of, Because, However,...
+
+![[Pasted image 20240610173248.png]]
+_The Map chart shows the change in the public park when it first opened in 1920 and the current park._
+
+**Topic:** The maps below show a public park when it first opened in 1920 and the same park today.
+
+**Sample Introduction:** The two maps illustrate various changes Grange park has undergone since its opening in 1920 to the present.
+
+ In the above example, synonyms such as: show = illustrate; today = the present 
+
+#### Overview 
+
+
+When you’re asked to focus on the “where,” “how,” and “why,” you’re being guided to address:
+
+- **Where** the change has taken place (the location or aspect of the map).
+- **How** the change has occurred (the process or nature of the change).
+- **Why** the change has happened (the reasons or factors behind the change).
+You can use some of the following phrases and structures to write the Overview:
+
+- S + V + Change [major changes/ striking transformations/ a significant modernization/ remarkable developments/]. V can be [see/ witness/ experience/ show/ display/present]
+    
+- Most noticeably, S+V → refers to the most prominent change. Can be noticeably replaced with other words such as striking, conspicuous, prominent, remarkable, outstanding, salient,... 
+Remember, the introduction should succinctly present the key changes without going into detailed descriptions, which are reserved for the body of the article. The overview should highlight the most prominent changes to give the reader a clear picture of the map’s evolution.
+- **S** stands for the **subject** of the sentence. In the context of your task, the subject would typically be the map or the specific elements within the map that are undergoing changes.
+- **V** represents the **verb**, which describes the action or state of the subject. In this case, verbs like “see,” “witness,” “experience,” “show,” “display,” or “present” would be used to describe the observation or changes noted in the map.
+- **Change** refers to the **description of the transformation** that has taken place, such as “major changes,” “striking transformations,” “a significant modernization,” “remarkable developments,” and so on.
+
+
+
+Here’s how you might structure an introduction using these elements:
+
+```markdown
+**Introduction:**
+As can be seen from the map, the island has undergone **striking transformations** over the years. 
+
+**Overview:**
+Most noticeably, the previously undeveloped land has been **modernized** into a bustling hub of recreation and entertainment, showcasing a **remarkable development** from its original state.
+
+**Map Analysis:**
+The map **displays** a transition from a wild island to a well-facilitated destination, **evidencing** the **significant modernization** efforts undertaken.
+```
+
+In this example:
+
+- **S** (subject) is the island.
+- **V** (verb) includes words like “displays” and “evidencing.”
+- **Change** is described with phrases like “striking transformations” and “significant modernization.”
+
+#### Body  
+The body of the paper usually consists of two paragraphs, each about 3-4 sentences long, which can be divided according to the two locations that the question considers, or divided according to the change of two time periods.
+In the body of a map-based writing task, you should  focus on describing the location, explaining what the location is about, and detailing how the location has changed.
+
+Here are some vocabulary suggestions for Writing Task 1 in Map form:
+
+1. **Location-related words**: North, South, East, West, Northeast, Northwest, Southeast, Southwest, adjacent to, near, far, opposite, surrounding, central, peripheral, etc.
+    
+2. **Change-related words**: transformed, converted, evolved, developed, shifted, relocated, moved, altered, modified, etc.
+    
+3. **Description-related words**: residential area, commercial area, industrial area, natural features (like river, forest, hill, etc.), man-made features (like buildings, roads, bridges, etc.), facilities (like playground, parking lot, etc.)
+
+**Example:** The entrance has also been relocated to the southwest corner of the building, next to the new reception desk and close to a new children's play area on the map.
+
+- Location is being described: The entrance
+    
+- The venue is located in: in the southwest corner of the building, next to the new reception desk and close to a new children's play area.
+    
+- The change of location: has been relocated to the southwest corner of the building.
+# process driven 
+
+
+
+
+
+1. **Learn about the process**: Identify the type of process (natural or man-made), its starting and ending points, and whether it’s a closed or loop process. Determine the number of stages and their order, and understand the connection between each stage.
+    
+2. **Paraphrase the topic**: Restate the beginning point of the process in your own words to demonstrate understanding and avoid plagiarism.
+    
+3. **Overview the whole process**: Summarize the entire process in two sentences. This overview is crucial for scoring higher in the IELTS Writing Task as it shows your ability to condense information effectively.
+    
+4. **Divide the body**: For closed cycle processes, describe each step using the numbers assigned to the process. For processes with distinct starting and ending points, describe the steps in numerical order if they are numbered, or follow the sequence presented in the source material.
+    
+5. **Analyze section details**: Examine each step closely to identify the subject of the action, the action itself, the affected object, the purpose/cause of the step, the results, and compare the results if there are multiple outcome paths in the process.
+    
+6. **Review the article**: Re-read the article to check for sentence structure and spelling errors, ensuring clarity and accuracy in your writing
+
+
+
+
+| **Từ vựng** | **Phát âm**      | **Ý nghĩa** |
+| ----------- | ---------------- | ----------- |
+| Create      | /kriːˈeɪt/       | Tạo ra      |
+| Distribute  | /dɪˈstrɪb.juːt/  | Phân phối   |
+| Demolished  | /muːv/           | phá hủy     |
+| Produce     | /prəˈdʒuːs/      | Sản xuất    |
+| Erected     | /ɪˈrekt/         | sự xây dựng |
+| Redeveloped | /ˌriː.dɪˈvel.əp/ | quy hoạch   |
+
+#### chart creation diagram world 
+
+| **Từ vựng**    | **Ý nghĩa**                   | **Ví dụ**                                                                                                   |
+| -------------- | ----------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Create         | Tạo ra                        | What kind of games do you create?                                                                           |
+| Produce        | Sản xuất                      | These plants produce a number of thin roots.                                                                |
+| Make           | Tạo ra                        | I made a few phone calls.                                                                                   |
+| Distribute     | Phân phối                     | Europe must distribute the burdens more fairly.                                                             |
+| Move           | Di chuyển                     | I moved to Boston last spring.                                                                              |
+| Natural        | Tự nhiên/thuộc về thiên nhiên | Naturally, I get upset when things go wrong.                                                                |
+| Human-produced | Sản xuất bởi con người        | The products’ materials are a hundred percent human-produced                                                |
+| Man-made       | Sản xuất bởi con người        | The man-made fiber was soft and comfortable to wear.                                                        |
+| Cyclical       | Có tính chu kỳ                | That's a cyclical process.                                                                                  |
+| Linear         | Tuyến tính                    | The diagram presents a linear process of how a factory produces and delivers the products to the customers. |
+
+#### process description diagram word 
+
+| **từ vựng**                                         | **Ý nghĩa**                     | **Ví dụ**                                                                                                                                                           |
+| --------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| First/ firstly                                      | Giới thiệu bước đầu tiên        | First, the process starts with the designing phase, which includes prototyping and 3D printing.                                                                     |
+| Second/secondly                                     | Giới thiệu bước thứ hai         | Second, the production stage commences.                                                                                                                             |
+| After/ afterwards/ once/ Following                  | Giới thiệu bước theo sau        | Afterward, automation and computing begins to arrange the cargo delivery.                                                                                           |
+| Next                                                | Giới thiệu bước kế tiếp         | Next, the delivery process starts, which includes tracking and distributing.                                                                                        |
+| Later/ Subsequently                                 | Sau đó                          | Later, the jolting of the plane awakened her with a start.                                                                                                          |
+| Finally/ lastly                                     | Giới thiệu bước cuối cùng       | Finally, the products are delivered to the buyers within 5 days.                                                                                                    |
+| Meanwhile                                           | Trong lúc                       | Meanwhile, the next stage can start to operate..                                                                                                                    |
+| Step                                                | Bước                            | She walked on a few steps                                                                                                                                           |
+| During<br><br>While/at the same time<br><br>Thereby | Khi có hai bước xảy ra cùng lúc | While the blockchain of things process operates, the software engineers must ensure other machines’ good performance.<br><br>She swims every day during the summer. |
+
+#### pattern and repeating cycle word 
+
+| **từ vựng**            | **Ý nghĩa**          | **Ví dụ**                                                            |
+| ---------------------- | -------------------- | -------------------------------------------------------------------- |
+| Continues indefinitely | Tiếp tục vô thời hạn | Might it be possible to prolong life indefinitely?                   |
+| Cycle                  | Chu kỳ              | Life, like the seasons, follows a natural cycle.                     |
+| Repetition             | Sự lặp lại           | I didn't want a repetition of the scene in my office that morning    |
+| Loops                  | Vòng lặp             | One last tip I'd like to offer is using loops from the command line. |
+| Recurs                 | Lặp lại              | Leap year recurs every five years.                                   |
+
+#### common natural process word 
+
+|**Từ vựng**|**Ý nghĩa**|
+|---|---|
+|To lay eggs|Đẻ trứng|
+|To hatch|Nở ra|
+|To feed on|Ăn cái gì|
+|To grow in size|Lớn lên, tăng kích thước|
+|To shed their old skin|Lột xác|
+|To migrate|Di cư|
+|To undergo changes|Trải qua những thay đổi|
+|To evaporate|Bốc hơi|
+|To condense|Ngưng tụ|
+|A certain period of time|Một khoảng thời gian nhất định|
+|Between … and … days/months/years|Từ … đến … ngày / tháng / năm|
+|In the space of only|Trong không gian của chỉ|
+|A few days later|Một vài ngày sau|
+
+#### man made process word 
+
+|**Từ vựng**|**Ý nghĩa**|
+|---|---|
+|To be picked|Được hái|
+|To be harvested|Được thu hoạch|
+|To be dried in the sun|Được phơi dưới nắng|
+|To be cleaned|Được làm sạch / Được rửa|
+|To be put in something|Được bỏ vào|
+|To be fermented|Được lên men|
+|To be molded|Được đúc khuôn|
+|To be frozen|Được cấp đông|
+|To be separated|Được tách ra|
+|To be mixed with something|Được trộn với|
+|To be crushed|Được nghiền nát|
+|To be delivered/ transported/ sent/ taken to somewhere|Được đem tới|
+|To be packaged|Được đóng gói|
+|To be sold|Được bán|
+
