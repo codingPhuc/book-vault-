@@ -14,7 +14,43 @@ You’ve got a solid grasp of the steps needed to craft a strong introduction fo
 
 “Nuclear technology has been a subject of debate for decades, often seen as a double-edged sword. On one hand, it promises a future of clean and affordable energy; on the other, it brings the fear of devastating weaponry. While acknowledging the potential risks, I believe that the advantages of nuclear technology do indeed surpass its drawbacks. This essay will explore the multifaceted role of nuclear power in maintaining peace and powering progress, drawing on historical precedents and current applications.”
 
-###  form of Opinion 
+
+### two part question  
+The Two-part question in IELTS Writing Task 2, also known as a Direct or Double question, requires candidates to address two related questions within their essay. This format is significant as it accounts for 60% of the total Writing score. It’s essential to prepare thoroughly to score well in this section.
+
+To better understand the Two-part questions, let’s analyze the following examples:
+
+**Sample 1:**
+
+- **Question 1:** How has technology affected the types of relationships people make?
+- **Question 2:** Is this a positive or negative development?
+
+In this prompt, you need to discuss the impact of technology on human relationships and then provide your opinion on whether this impact is positive or negative, ensuring a clear and coherent argument to meet the Task Achievement criteria.
+
+**Sample 2:**
+
+- **Question 1:** To what extent are consumers influenced by advertisements?
+- **Question 2:** What measures can be taken to protect them?
+
+Here, you must evaluate the influence of advertisements on consumers and suggest measures for consumer protection.
+
+**Writing Structure for Two-part Questions:**
+
+1. **Introduction:** Paraphrase the issue and state your main viewpoint.
+2. **Body Paragraph 1:** Address the first question with reasons, explanations, and examples.
+3. **Body Paragraph 2:** Address the second question with consequences or solutions.
+4. **Conclusion:** Summarize the main points and reassert your viewpoint.
+
+**Tips for Writing:**
+
+- Spend time analyzing the prompt and planning your essay.
+- Develop a clear thesis statement in the introduction.
+- Support your arguments with relevant examples.
+- Conclude by summarizing your points and restating your opinion.
+
+
+#  opinion  essay  
+
 
 Building two strong points to support your opinion in an IELTS Writing Task 2 essay involves a few key steps:
 
@@ -51,37 +87,96 @@ Here’s how it might look in a paragraph:
 - give two point without a clear understanding   , you should focus on the point you choose instead of 2 point at the same time 
 - discuss the point you have not chosen more then the point you have not 
 
-### two part question  
-The Two-part question in IELTS Writing Task 2, also known as a Direct or Double question, requires candidates to address two related questions within their essay. This format is significant as it accounts for 60% of the total Writing score. It’s essential to prepare thoroughly to score well in this section.
+**) Introduction**  
 
-To better understand the Two-part questions, let’s analyze the following examples:
+- Paraphrase the question
+- Give your opinion
+- State two supporting reasons
 
-**Sample 1:**
+**2) Main body paragraph 1**
 
-- **Question 1:** How has technology affected the types of relationships people make?
-- **Question 2:** Is this a positive or negative development?
+- Topic sentence – outline 1st reason for supporting this view
+- Explanation – explain this idea
+- Example – give an example or expand the idea
 
-In this prompt, you need to discuss the impact of technology on human relationships and then provide your opinion on whether this impact is positive or negative, ensuring a clear and coherent argument to meet the Task Achievement criteria.
+**3) Main body paragraph 2**  
 
-**Sample 2:**
+- Topic sentence – outline 2nd reason for supporting this view
+- Explanation – explain this idea
+- Example – give an example or expand the idea
 
-- **Question 1:** To what extent are consumers influenced by advertisements?
-- **Question 2:** What measures can be taken to protect them?
+**4) Conclusion**  
 
-Here, you must evaluate the influence of advertisements on consumers and suggest measures for consumer protection.
-
-**Writing Structure for Two-part Questions:**
-
-1. **Introduction:** Paraphrase the issue and state your main viewpoint.
-2. **Body Paragraph 1:** Address the first question with reasons, explanations, and examples.
-3. **Body Paragraph 2:** Address the second question with consequences or solutions.
-4. **Conclusion:** Summarize the main points and reassert your viewpoint.
-
-**Tips for Writing:**
-
-- Spend time analyzing the prompt and planning your essay.
-- Develop a clear thesis statement in the introduction.
-- Support your arguments with relevant examples.
-- Conclude by summarizing your points and restating your opinion.
+- Summarise opinion and key reasons
 
 
+#  IELTS Problem Solution Essays 
+
+
+**1) Introduction**  
+
+- Paraphrase the question
+- State 1 key problem/cause and related solution
+
+**2) Main body paragraph 1 – Problem or Cause**
+
+- Topic sentence – state the problem or cause
+- Explanation – give detail explaining the problem or cause
+- Example – give an example
+
+**3) Main body paragraph 2 – Solution**
+
+- Topic sentence – state the solution
+- Explanation – give detail explaining the solution
+- Example – give an example
+
+**4) Conclusion**
+
+- Summarise the key points
+
+
+
+# Discussion Essays 
+**1) Introduction**  
+
+- Paraphrase the question
+- State two supporting reasons  
+    
+- Give your opinion
+
+ **2) Main body paragraph 1**
+
+- Topic sentence – outline the view you don’t agree with
+- Explanation – explain why this view is held by some people
+- Example – give an example
+
+ 3**) Main body paragraph 2**
+
+- Topic sentence – outline the view you do agree with
+- Explanation – explain why this view is held by some people
+- Example – give an example
+
+ **4) Conclusion**
+
+- Summarise the key points and state your opinion
+
+
+#  Double Question Essays
+**1) Introduction**   
+
+-   Paraphrase the question 
+-   Outline sentence – state your answer to both questions
+
+**2) Main body paragraph 1 – Answer question 1**
+
+- Topic sentence – state your answer
+- Explanation – develop the idea
+- Example – give an example
+
+**3) Main body paragraph 2 – Answer question 2**
+
+- Topic sentence – state your answer
+- Explanation – develop the idea
+- Example – give an example
+
+**4) Conclusion** Summarise both questions and answers

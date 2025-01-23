@@ -1,0 +1,83 @@
+- **CockInhalingWizard** – Game development, graphics programming, AI, high-performance computing, computational sciences, cryptography
+- **tuxedo25** – Finance (quantitative analysis)
+- **vzq** – Computational physics, econometrics, numerical mathematics, software engineering in complex numerical work
+- **GGfpc** – Machine learning, cryptography
+- **RedBottle_** – Game development and engine development (linear algebra, geometry, calculus)
+- **alnyland** – Geometry, calculus in game development
+- **C-XD** – Software engineering in complex algorithms, libraries, proprietary algorithms
+- **terrrp** – Computer vision, machine learning, optimization problems, linear algebra, graph theory, calculus
+- **HalvorJan** – Aerospace (Guidance, Navigation, Control algorithms)
+- **hextree** – Machine learning researcher/scientist
+- **karangoswamikenz** – Video engineering, video encoding/decoding, codecs, matrix manipulation, deep learning-based codecs
+- **which_spartacus** – Radio frequency propagation, FFT analysis, signal processing
+- **plasticbills** – Quantitative analysis (finance)
+- **Xdxddxddd** – Finance, quantitative analysis, Bloomberg, compliance, security programming
+- **gawaine42** – Signal processing, radar, sonar, RF, acoustic communications
+- **wakkawakkaaaa** – Geospatial and sensor data, IMU calculations, data science
+- **bobmothafugginjones** – Not specified
+- **oyetheri** – Frontend development
+- **ChooseMars** – R&D in the chemical engineering industry, software with math modules
+- **StrangePractice** – Data science
+- **magejangle** – Computational geometry (CAD), fluid dynamics, game development
+- **sessamekesh** – Graphics, charting, graph theory, API call management, physics/math for mechanical processes
+- **heyheyhey27** – Computer graphics, linear algebra, procedural generation
+- **piratemurray** – Computer maths
+- **AlexCoventry** – Machine learning, replicating research papers
+- **marcotb12** – Electronic design automation, optics, geometry, polymer physics, graphics, machine learning
+- **Conceptizual** – Risk and fraud prevention engineering, database reasoning, performance optimization
+- **gawaine42** – Signal processing, radar, sonar, RF and acoustic communications
+- **turtlintime** – Embedded software development
+- **oyetheri** – Embedded software development, Boolean algebra, calculus
+- **coppercactus4** – Game development, graphics programming, physics
+- **wdr1** – Fintech, adtech, math-intensive roles
+- **raindoctor** – Numerical computing, operations research, artificial intelligence, cryptography
+- **SouthOceanJr** – Research-based products, game development (AI, graphics, sound engineering)
+- **thereisnosuch** – Cryptography, computer vision, linear algebra
+- **eric987235** – General programming, algebra
+- **dolphins3** – Defense-related work involving complex math
+
+
+
+- **Game Development**
+- **[[Graphics Programming]]**
+- **AI (Artificial Intelligence)**
+- **[[High-Performance Computing]]**
+- **Computational Sciences**
+- **[[Cryptography]]**
+- **[[Quantitative Analysis (Finance)]]**
+- **Computational Physics**
+- **Econometrics**
+- **Numerical Mathematics**
+- **Software Engineering (Complex Algorithms)**
+- **Machine Learning Researcher/Scientist**
+- **Aerospace Engineering (Guidance, Navigation, and Control)**
+- **Video Engineering (Video Encoding/Decoding, Codecs)**
+- **[[Signal Processing]] (Radar, Sonar, RF, Acoustic Communications)**
+- **[[Geospatial and Sensor Data Science]]**
+- **Frontend Development**
+- **R&D in Chemical Engineering**
+- **Risk and Fraud Prevention Engineering**
+- **Computational Geometry (CAD)**
+- **Fluid Dynamics**
+- [[Embedded Software Development]]
+- **Electronic Design Automation**
+- **Operations Research (Linear Programming, Non-Linear Programming)**
+- **[[Digital Signal Processing]]**
+- **Computer Vision**
+- **[[Data Science]]**
+- **Theoretical Computer Science**
+- **Biomedical Engineering (Radiology Software)** 
+- **Quantitative Analysis in Finance**
+- **Radio Frequency Propagation**
+- **Sound Engineering (Game Development)**
+- **Programming Language Theory**
+- **Financial Technology (Fintech)**
+- **Adtech**
+- **Research in Numerical Computing and AI**
+- **Operations Research (Integer Programming)**
+- **Constraint Satisfaction in AI**
+- **[[Machine Learning Engineer_Scientist]]**
+
+
+# guild  on how to enter the flied 
+https://www.reddit.com/r/embedded/comments/cbswjt/entry_level_embedded_software_career_guide/

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: rmmix-d4g59
+created: 2024-12-30T12:49:17+07:00

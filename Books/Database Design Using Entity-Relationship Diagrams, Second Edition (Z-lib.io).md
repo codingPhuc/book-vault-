@@ -23,4 +23,9 @@ independly check against the specification mean that some component  of the soft
 
 
 
-[[The Basic ER Diagram  A Data Modeling Schema]]
+[[The Basic ER Diagram  A Data Modeling Schema]]  
+
+
+
+
+

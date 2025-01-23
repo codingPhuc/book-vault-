@@ -6,7 +6,7 @@ task 1 :
 The chart showcase the constrast between the ownership  of electrical  application and time spent on house work  in one country in a 99 year periot starting from  1920. The overall trend of the graph lean more toward a increase in house hold application from 1920 on ward and a decrease on time spent on house hold chore  
  
 Starting from  the 1920 house hold electrical application took up a small percentage in each house hold , with the vacuum cleaner being non exitent and other applicant like washing machine and refrigerator taking up one fourth to one third of house hold. This all change in the year 1940 which saw the appearent of the vacuum cleaner and other applicant taking up half of all house hold. As the year gone by in the periot between 1940 and 2019 we can see that the washing machine have fructuated in used in the 60 to 70 percentage range , while the vacuum cleaner and the washing machine continue to reach their peak with a 100 percentage used in all house hold 
-
+platuo 
 The number of housework per week have had a steady decrease in the 1920 downward , this can be contributed to the increase in used of all house hold electrical appliances in the following year making house work activity more efficient  
  
 **Task Achievement (7/9):** You’ve done a good job summarizing the main trends in the graph, including the increase in household appliance ownership and the decrease in time spent on housework. However, you could improve by making sure to fully address all parts of the prompt. For example, you could mention specific data points or years to provide a more detailed overview.
@@ -67,7 +67,6 @@ Task 1  :
 
 The diagram illustrate the process of making sugar from sugar cane from  the beginning harvest to the refinement end  
 
-  
 
 The process is split into  7 total step from the harvesting and extracting the sugar cane  juices , to the refinement of the sugar cane juices into sugar  
 

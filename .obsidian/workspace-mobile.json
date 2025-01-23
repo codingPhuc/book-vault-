@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "d75a3caeaa769611",
+    "type": "split",
+    "children": [
+      {
+        "id": "67ccb4161533821c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "879e8ab014ed2697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prepare for calamity/What to bring.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "What to bring"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1a9b1b2b64d12d1",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "83dce4df7eac1f67",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a83acec1bb0102e2",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "e3b5333777824c61",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "3ee6727c4ceabd92",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fa1c0affd16e263e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "849b9866623480dc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "prepare for calamity/What to bring.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "7af49d3f39a40042",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "prepare for calamity/What to bring.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9469f2351054d0f3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "prepare for calamity/What to bring.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "879e8ab014ed2697",
+  "lastOpenFiles": [
+    "prepare for calamity/collage/Irvine Valley College.md",
+    "prepare for calamity/collage/info 1.md",
+    "prepare for calamity/Van life/Gas Price.md",
+    "prepare for calamity/survival/Dumpster driving.md",
+    "prepare for calamity/What to bring.md",
+    "prepare for calamity/collage/university cost.md",
+    "California  State  university.md",
+    "prepare for calamity/collage/recomentded university for embedded.md",
+    "prepare for calamity/collage/Placement test.md",
+    "prepare for calamity/immigration  visa +  green  card/green card.md",
+    "prepare for calamity/Task to do.md",
+    "prepare for calamity/Van life/App for vans life and their used.md",
+    "prepare for calamity/collage/collage plan.md",
+    "prepare for calamity/Van life/Untitled.md",
+    "prepare for calamity/bank food store and other.md"
+  ]
+}

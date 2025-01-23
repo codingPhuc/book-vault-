@@ -55,3 +55,37 @@ for many to many relationship if there are more than one attributa you should us
 8. What are some reasons you might want to comment out code?
 9. What is the best practice for commenting code according to the document?
 
+
+# prompt for abap coding
+
+
+1. **Comprehensive Code Review:**
+    
+    - “As a senior developer, could you provide a comprehensive review of the following code snippet? Specifically, analyze its adherence to our team’s standard coding practices, potential performance issues, and opportunities for refactoring.”
+2. **Optimization Challenge:**
+    
+    - “Given your vast experience with ABAP, how would you optimize this function `<function_name>` to reduce its computational complexity without sacrificing readability?”
+3. **Error Handling Assessment:**
+    
+    - “We’d appreciate your expert critique on the error handling implemented in `<code_section>`. Are there any scenarios we are overlooking, and could you suggest robust solutions for those cases?”
+4. **Maintainability and Scalability Check:**
+    
+    - “Could you elaborate on the maintainability and scalability aspects of this module `<module_name>`? Additionally, provide your recommendations to ensure it aligns with our long-term product strategy.”
+5. **Security Review:**
+    
+    - “Considering security best practices, what are your thoughts on the current authentication logic in `<auth_related_code>`? Please recommend proactive measures we can take to fortify its security.”
+6. **Database Interaction Optimization:**
+    
+    - “Review the database interaction code in `<db_interaction_code>`. How can we enhance its efficiency and security, while also preparing it for scale as our user base grows?”
+7. **Feature Architecture Assessment:**
+    
+    - “Please assess the code architecture for our new feature `<feature_name>` from a senior expert’s perspective. What design patterns would you employ to improve its structure and future extensibility?”
+8. **Unit Test Evaluation:**
+    
+    - “Analyze the unit tests associated with `<application_component>` and suggest strategies for improving test coverage and effectiveness, particularly for edge cases and failure modes.”
+9. **Modern Practices Integration:**
+    
+    - “From your extensive experience, how could we better utilize modern ABAP practices in our current implementation of `<specific_code>` to gain a substantial productivity boost?”
+10. **Asynchronous Programming Refinement:**
+    
+    - “Conduct a thorough analysis of the use of asynchronous programming in `<async_code_block>`. Are there any anti-patterns or inefficiencies present? How might we refine this to improve app responsiveness and data processing times?”
