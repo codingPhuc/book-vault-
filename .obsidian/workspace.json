@@ -13,26 +13,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prepare for calamity/Game Plan.md",
+                "file": "basic skill/running  linux on Iphone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game Plan"
+              "title": "running  linux on Iphone"
             }
           },
           {
-            "id": "bdfd6bd4f2724aef",
+            "id": "f09b2aff9bd0abb0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.3"
+            }
+          },
+          {
+            "id": "1f767e693aae378c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prepare for calamity/Tasks to do.md",
+                "file": "prepare for calamity/immigration  visa +  green  card/green card.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks to do"
+              "title": "green card"
+            }
+          },
+          {
+            "id": "158b1d55c986b050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prepare for calamity/peoples/person of interest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "person of interest"
             }
           },
           {
@@ -41,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-23.md",
+                "file": "Embedded Software Development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-23"
+              "title": "Embedded Software Development"
             }
           },
           {
@@ -128,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -147,7 +173,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -159,7 +186,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "job",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -270,57 +297,58 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b528efd1d40ea8f6",
+  "active": "158b1d55c986b050",
   "lastOpenFiles": [
-    "Untitled 6.canvas",
+    "DSP.md",
+    "prepare for calamity/immigration  visa +  green  card/green card.md",
+    "making a decision on if I  should go abroad.md",
+    "Pasted image 20250123074241.png",
     "2025-01-23.md",
-    "prepare for calamity/Tasks to do.md",
-    "prepare for calamity/Todo what to bring and  buy.md",
-    "prepare for calamity/making money.md",
-    "prepare for calamity/question to ask immigration lawyer.md",
-    "prepare for calamity/peoples/Todo for Living circumstances.md",
-    "prepare for calamity/peoples/person of interest.md",
-    "prepare for calamity/out/collage/outline courses/outline courses.png",
-    "prepare for calamity/collage/El Camino College.md",
-    "prepare for calamity/Game Plan.md",
-    "prepare for calamity/peoples/Untitled.md",
-    "emotion.md",
-    "Embedded Software Development.md",
-    "ielts/16 Writing.md",
-    "ielts/17 Writing.md",
     "2024-03-29.md",
-    "prepare for calamity/Untitled.md",
-    "prepare for calamity/peoples",
-    "prepare for calamity/coupon bank and tips.md",
-    "prepare for calamity/What to bring.sync-conflict-20250118-223930-XSHLI5C.md",
-    "prepare for calamity/food.md",
-    "prepare for calamity/phone mobile.md",
-    "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
-    "prepare for calamity/eebs_flowchartprogram_transferstudents.general.pdf",
-    "prepare for calamity/survival/Dumpster driving.md",
-    "prepare for calamity/~syncthing~What to bring.md.tmp",
-    "prepare for calamity/~syncthing~What to bring.sync-conflict-20250118-223930-XSHLI5C.md.tmp",
-    "prepare for calamity/collage/Placement test.md",
-    "prepare for calamity/README.md",
-    "prepare for calamity/collage/outline courses.md",
-    "prepare for calamity/collage/explore the  campus.md",
-    "prepare for calamity/Chemistry-Study-Guide.pdf",
-    "prepare for calamity/Chemistry-Study-Guide 1.pdf",
-    "Pasted image 20250113104611.png",
     "Pasted image 20250113104550.png",
-    "prepare for calamity/collage/long beach",
-    "Pasted image 20250105184336.png",
-    "prepare for calamity/collage/~$ collage 1  transfer electric.pdf",
-    "prepare for calamity/collage/los angles  2  transfer computer science.pdf",
-    "prepare for calamity/collage/Pasted image 20250103172357.png",
-    "Pasted image 20250105184115.png",
-    "Pasted image 20241228142748.png",
-    "Pasted image 20241206221758.png",
+    "California  State  university.md",
+    "Untitled.canvas",
     "BUS savior.PNG",
     "attribute and thier composition.PNG",
-    "learing raod map for ielts.canvas",
+    "Pasted image 20240622112211.png",
+    "Pasted image 20240610173248.png",
+    "Pasted image 20240702211353.png",
+    "Pasted image 20240702220120.png",
     "Untitled 5.canvas",
-    "Untitled.canvas",
+    "learing raod map for ielts.canvas",
+    "Pasted image 20241206221758.png",
+    "Pasted image 20241206221759.png",
+    "prepare for calamity/long beach to cal state long beach.pdf",
+    "prepare for calamity/immigration  visa +  green  card/H1B.md",
+    "prepare for calamity/collage/closes college.md",
+    "prepare for calamity/Los Angeles University of California.md",
+    "prepare for calamity/Game Plan.md",
+    "prepare for calamity/collage/Irvine Valley College.md",
+    "prepare for calamity/making money.md",
+    "prepare for calamity/Untitled.md",
+    "prepare for calamity/coupon bank and tips.md",
+    "prepare for calamity/Tasks to do.md",
+    "prepare for calamity/charity  that interest me.md",
+    "prepare for calamity/peoples/person of interest.md",
+    "prepare for calamity/collage/long beach/california state university long beach.md",
+    "prepare for calamity/Todo what to bring and  buy.md",
+    "prepare for calamity/peoples/Todo for Living circumstances.md",
+    "basic skill/obsidian git bug.md",
+    "basic skill/running  linux on Iphone.md",
+    "basic skill/google import and export.md",
+    "prepare for calamity/collage/golden west community college.md",
+    "prepare for calamity/collage/golden west to long beach california state.pdf",
+    "prepare for calamity/collage/Placement test.md",
+    "prepare for calamity/collage/California State university.md",
+    "prepare for calamity/college.pdf",
+    "prepare for calamity/collage/Los Angeles University",
+    "Untitled 6.canvas",
+    "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
+    "prepare for calamity/eebs_flowchartprogram_transferstudents.general.pdf",
+    "prepare for calamity/peoples",
+    "prepare for calamity/~syncthing~What to bring.md.tmp",
+    "prepare for calamity/~syncthing~What to bring.sync-conflict-20250118-223930-XSHLI5C.md.tmp",
+    "prepare for calamity/Chemistry-Study-Guide.pdf",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 4.canvas",
