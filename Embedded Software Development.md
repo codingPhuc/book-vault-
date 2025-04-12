@@ -95,12 +95,7 @@ company for embedded
 9. Emerson
 10. Wipro
 11. John Deere
-# indeed webscraper 
-https://github.com/rbuttery/indeed_job_scraper
-https://github.com/Eben001/IndeedJobScraper.git
-## scrabing job search website 
-https://www.reddit.com/r/ChatGPT/comments/1i7wyq9/i_scraped_16_million_jobs_with_chatgpt/
-https://hiring.cafe/
+
 # linkind 
 https://www.youtube.com/watch?v=-H-JCgvV0z8&ab_channel=TheDataCircle
 # edge AI 

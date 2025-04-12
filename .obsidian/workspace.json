@@ -4,157 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "c223a43cb9d14abc",
+        "id": "a052c8d759b9fed0",
         "type": "tabs",
         "children": [
           {
-            "id": "853ed77015bd70ac",
+            "id": "a967226282e01017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basic skill/running  linux on Iphone.md",
+                "file": "Banks and payment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "running  linux on Iphone"
+              "title": "Banks and payment"
             }
           },
           {
-            "id": "f09b2aff9bd0abb0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.3"
-            }
-          },
-          {
-            "id": "1f767e693aae378c",
+            "id": "9f0524e03365206a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prepare for calamity/immigration  visa +  green  card/green card.md",
+                "file": "prepare for calamity/collage/Golden  West/Golden West Community College.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "green card"
-            }
-          },
-          {
-            "id": "158b1d55c986b050",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prepare for calamity/peoples/person of interest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "person of interest"
-            }
-          },
-          {
-            "id": "b528efd1d40ea8f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded Software Development.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Embedded Software Development"
-            }
-          },
-          {
-            "id": "c592467b56997f8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prepare for calamity/peoples/person of interest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "person of interest"
-            }
-          },
-          {
-            "id": "28d111e066227067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prepare for calamity/peoples/Todo for Living circumstances.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Todo for Living circumstances"
-            }
-          },
-          {
-            "id": "e6b7f017348e78df",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "prepare for calamity/out/collage/outline courses/outline courses.png"
-              },
-              "icon": "lucide-image",
-              "title": "outline courses"
-            }
-          },
-          {
-            "id": "58fd0eaace64fb3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prepare for calamity/peoples/person of interest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "person of interest"
-            }
-          },
-          {
-            "id": "423db1b66737c697",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prepare for calamity/peoples/Todo for Living circumstances.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Todo for Living circumstances"
-            }
-          },
-          {
-            "id": "20e893565fb64882",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Golden West Community College"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,23 +62,6 @@
             }
           },
           {
-            "id": "981c772747a5cc1e",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
             "id": "27930df27c9e2924",
             "type": "leaf",
             "state": {
@@ -206,12 +70,29 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "981c772747a5cc1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "banking",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 277.5
   },
   "right": {
     "id": "c98530c0d8c3c35f",
@@ -273,10 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "writting.md"
+                "file": "Banks and payment.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of writting"
+              "title": "Outline of Banks and payment"
             }
           }
         ],
@@ -284,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,58 +180,58 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "158b1d55c986b050",
+  "active": "1519d39e08493179",
   "lastOpenFiles": [
-    "DSP.md",
-    "prepare for calamity/immigration  visa +  green  card/green card.md",
-    "making a decision on if I  should go abroad.md",
-    "Pasted image 20250123074241.png",
-    "2025-01-23.md",
-    "2024-03-29.md",
-    "Pasted image 20250113104550.png",
-    "California  State  university.md",
+    "templates/adjunction.md",
+    "templates",
+    "prepare for calamity/perpare too be kick out/Van life/Untitled.md",
+    "prepare for calamity/perpare too be kick out/Van life/Van life.md",
+    "2025-04-11.md",
+    "Pasted image 20250411143604.png",
+    "prepare for calamity/Tasks to do.md",
+    "Pasted image 20250411143426.png",
+    "Pasted image 20250411143345.png",
+    "Pasted image 20250411143304.png",
+    "Pasted image 20250411143158.png",
+    "prepare for calamity/collage/Golden  West/Golden West Community College.md",
+    "Untitled 7.md",
+    "prepare for calamity/collage/Golden  West/Semester at golden  West.md",
+    "prepare for calamity/survival/Dumpster driving.md",
+    "Books/how to win friend and influence people.md",
+    "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
+    "prepare for calamity/bank food store and other.md",
+    "prepare for calamity/What to bring.sync-conflict-20250118-223930-XSHLI5C.md",
+    "prepare for calamity/food.md",
+    "prepare for calamity/README.md",
+    "prepare for calamity/phone mobile.md",
+    "prepare for calamity/Game Plan.md",
+    "prepare for calamity/What to bring.md",
+    "prepare for calamity/why we go.md",
+    "prepare for calamity/question to ask immigration lawyer.md",
+    "prepare for calamity/long beach to cal state long beach.pdf",
+    "prepare for calamity/Los Angeles University of California.md",
+    "prepare for calamity/transfer-student-profile.pdf",
+    "prepare for calamity/Untitled 2.md",
+    "prepare for calamity/university/University of Southern California.md",
+    "prepare for calamity/survival/working.md",
+    "Machine Learning Engineer/Scientist.md",
+    "prepare for calamity/perpare too be kick out/Keep  calm  and follow these plan.md",
+    "prepare for calamity/perpare too be kick out/rent.md",
+    "prepare for calamity/perpare too be kick out",
+    "Pasted image 20250324123109.png",
+    "Pasted image 20250324123100.png",
+    "Pasted image 20250324123055.png",
+    "Pasted image 20250324123050.png",
+    "Pasted image 20250324123041.png",
+    "prepare for calamity/collage/Golden  West",
+    "prepare for calamity/transfer-student-profile.pdf.crdownload",
+    "prepare for calamity/collage/golden west to long beach california state.pdf",
+    "prepare for calamity/university",
+    "picture to chanage/boy_guitar.png.~tmp",
+    "Untitled 6.canvas",
     "Untitled.canvas",
-    "BUS savior.PNG",
-    "attribute and thier composition.PNG",
-    "Pasted image 20240622112211.png",
-    "Pasted image 20240610173248.png",
-    "Pasted image 20240702211353.png",
-    "Pasted image 20240702220120.png",
     "Untitled 5.canvas",
     "learing raod map for ielts.canvas",
-    "Pasted image 20241206221758.png",
-    "Pasted image 20241206221759.png",
-    "prepare for calamity/long beach to cal state long beach.pdf",
-    "prepare for calamity/immigration  visa +  green  card/H1B.md",
-    "prepare for calamity/collage/closes college.md",
-    "prepare for calamity/Los Angeles University of California.md",
-    "prepare for calamity/Game Plan.md",
-    "prepare for calamity/collage/Irvine Valley College.md",
-    "prepare for calamity/making money.md",
-    "prepare for calamity/Untitled.md",
-    "prepare for calamity/coupon bank and tips.md",
-    "prepare for calamity/Tasks to do.md",
-    "prepare for calamity/charity  that interest me.md",
-    "prepare for calamity/peoples/person of interest.md",
-    "prepare for calamity/collage/long beach/california state university long beach.md",
-    "prepare for calamity/Todo what to bring and  buy.md",
-    "prepare for calamity/peoples/Todo for Living circumstances.md",
-    "basic skill/obsidian git bug.md",
-    "basic skill/running  linux on Iphone.md",
-    "basic skill/google import and export.md",
-    "prepare for calamity/collage/golden west community college.md",
-    "prepare for calamity/collage/golden west to long beach california state.pdf",
-    "prepare for calamity/collage/Placement test.md",
-    "prepare for calamity/collage/California State university.md",
-    "prepare for calamity/college.pdf",
-    "prepare for calamity/collage/Los Angeles University",
-    "Untitled 6.canvas",
-    "prepare for calamity/AB 705 Placement Rules with Courses- Updated 07MAY2024- Fall 2024.pdf",
-    "prepare for calamity/eebs_flowchartprogram_transferstudents.general.pdf",
-    "prepare for calamity/peoples",
-    "prepare for calamity/~syncthing~What to bring.md.tmp",
-    "prepare for calamity/~syncthing~What to bring.sync-conflict-20250118-223930-XSHLI5C.md.tmp",
-    "prepare for calamity/Chemistry-Study-Guide.pdf",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
     "Untitled 4.canvas",
