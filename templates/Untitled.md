@@ -7,3 +7,4 @@ const referenceLine = `![${activeFile}${tagToAppend}]`;
 
 await tp.file.append_to(targetFile, referenceLine + "\n");
 %>
+asdasdsa
