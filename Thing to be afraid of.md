@@ -10,7 +10,7 @@
 - [ ] Volenteer help you with your university profile try to volenteer 
 - [ ] Tell your mom about the bill you have to pay 
 - [ ] Tell the bank of america to give you a saving account 
-
+- [ ] Noi chi nhung mua kem ba mau 
 
 
 https://www.wigsforkids.org/locations/strandz-hair-studio-strandz-on-grand/
