@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Prepare for calami",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -84,7 +84,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "fa1c0affd16e263e",
@@ -149,7 +149,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "879e8ab014ed2697",
+  "active": "a83acec1bb0102e2",
   "lastOpenFiles": [
     "/templates/Untitled.md",
     "/templates",
