@@ -1,5 +1,6 @@
 - [ ]  Where can i get note book pen for cheap pass back ? 
 - [ ] Where do i geg my hair cut and such 
+- [ ] https://www.wigsforkids.org/locations/little-clips-phenix-salon-suites/
 - [ ] Where do I get cheap sampo 
 - [ ] How to break the ice with friend 
 - [ ] How should i approach relationship 
@@ -9,6 +10,8 @@
 - [ ] Volenteer help you with your university profile try to volenteer 
 - [ ] Tell your mom about the bill you have to pay 
 - [ ] Tell the bank of america to give you a saving account 
+
+
 
 https://www.wigsforkids.org/locations/strandz-hair-studio-strandz-on-grand/
 
