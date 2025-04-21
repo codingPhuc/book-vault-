@@ -11,10 +11,14 @@
             "id": "879e8ab014ed2697",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Thing to be afraid of.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Thing to be afraid of"
             }
           }
         ]
@@ -145,8 +149,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "83dce4df7eac1f67",
+  "active": "879e8ab014ed2697",
   "lastOpenFiles": [
+    "Thing to be afraid of.md",
     "basic skill/obsidian git bug.md",
     "prepare for calamity/peoples",
     "prepare for calamity/collage/Los Angeles University",
